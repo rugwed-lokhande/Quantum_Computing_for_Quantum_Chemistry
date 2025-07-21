@@ -1,4 +1,3 @@
-# Quantum_Computing_for_Quantum_Chemistry
 # Seniority‐Restricted CC on Quantum Hardware
 
 This repository contains our implementation of a seniority‐restricted coupled‑cluster (sr‑CC) ansatz 
